@@ -4,7 +4,8 @@ The repository contains additional materials (i.e., the Modelica code of the hea
 
 > Marco Esposito, Alberto Leva, Toni Mancini, Leonardo Picchiami, Enrico Tronci <br/>
 > Simulation-Based Design of Industry-Size Control Systems with Formal Quality Guarantees <br/>
-> IEEE Transactions on Industrial Informatics, 2025
+> IEEE Transactions on Industrial Informatics, 2025 <br/>
+> DOI: ... (to be added when available)
 
 ## Repository structure
 
