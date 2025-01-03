@@ -1,6 +1,6 @@
 # Simulation-Based Design of Industry-Size Control Systems with Formal Quality Guarantees (Additional Material)
 
-The repository contains additional materials (i.e., the Modelica code of the heat network case study and furhter experiments) of the paper "Simulation-Based Design of Industry-Size Control Systems with Formal Quality Guarantees" published in IEEE Transactions on Industrial Informatics. 
+The repository contains additional materials (i.e., the Modelica code of the heat network case study and further experiments) from the paper "Simulation-Based Design of Industry-Size Control Systems with Formal Quality Guarantees", published in IEEE Transactions on Industrial Informatics. 
 
 
 ## Structure
@@ -9,14 +9,14 @@ This repository contains the following directories:
 
 * `additional-experiments` - Additional experiments to complement the experimental analysis presented in the paper.
 
-* `case-study` - This directory contains the Modelica code of the heat network case study witn the required libraries. 
+* `case-study` - This directory contains the Modelica code of the heat network case study with the required libraries. 
     * `model` - Modelica code of the heat network.
-    * `library` - Modelica code of the Modelica library [Automation of Energy System](https://github.com/looms-polimi/Automation_of_Energy_Systems).
+    * `library` - Modelica code of the [Automation of Energy System](https://github.com/looms-polimi/Automation_of_Energy_Systems) Modelica library.
 
 
 ## Additional Experiments.
 
-This folder contains an additional experiments that completes the experimental analysis proposed in the paper.
+This folder contains additional experiments that complete the experimental analysis proposed in the paper.
 
 Further details are provided [here](additional-experiments/README.md).
 
