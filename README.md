@@ -7,9 +7,11 @@ The repository contains additional materials (i.e., the Modelica code of the hea
 
 This repository contains the following directories:
 
-    `additional-experiments` - Additional experiments to complement the experimental analysis presented in the paper.
+* `additional-experiments` - Additional experiments to complement the experimental analysis presented in the paper.
 
-    `case-study` - This directory contains the Modelica code of the heat network case study witn the required libraries. 
+* `case-study` - This directory contains the Modelica code of the heat network case study witn the required libraries. 
+    * `model` - Modelica code of the heat network.
+    * `library` - 
 
 
 ## Additional Experiments.
@@ -23,7 +25,7 @@ Further details are provided [here](additional-experiments/README.md).
 
 This folder contains the Modelica code of the case study with which the approach proposed in the paper has been evaluated.
 
-Further details and the instructions to simulate it are provided [here](case-study/README.md)  
+Further details and the instructions to simulate it are provided [here](case-study/README.md).  
 
 
 
