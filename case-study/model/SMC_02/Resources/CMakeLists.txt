@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.2)
+set(CMAKE_BUILD_TYPE Release)
+set(CMAKE_CXX_STANDARD 17)
+project(randn)
+add_library(randn SHARED randn.cpp)
+install(TARGETS randn DESTINATION ${CMAKE_SOURCE_DIR})

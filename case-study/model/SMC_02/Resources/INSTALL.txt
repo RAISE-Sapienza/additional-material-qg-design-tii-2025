@@ -1,0 +1,18 @@
+For Linux
+=========
+
+mkdir build
+cd build
+cmake ..
+make
+make install
+
+For Windows
+===========
+
+Set up a Linux VM :)
+
+Alternatively: something along the line of
+- installing CMake https://cmake.org/install/
+- installing a modern C++ compiler https://nuwen.net/mingw.html
+- and then https://cmake.org/runningcmake/
