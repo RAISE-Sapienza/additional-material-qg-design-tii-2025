@@ -4,7 +4,7 @@ In the following, we show an extension of the experimental analysis presented in
 
 Namely, the provided figures show the computation time breakdown among the Black-Box optimization (BBO) and the Statistical Model Checking (SMC) steps in each algorithm iteration (starting from the bottom) with the following values for $\varepsilon$ and $\delta$:
 
-* All values of $\varepsilon\$ $\in$ { $10^{-3}, 2.5 \times 10^{-3}, 5 \times 10^{3}, 7.5 \times 10^{-3}, 10^{-2}$ }
+* All values of $\varepsilon\$ $\in$ { $10^{-3}, 2.5 \times 10^{-3}, 5 \times 10^{-3}, 7.5 \times 10^{-3}, 10^{-2}$ }
 
 * Three different (evenly spaced) values of $\delta$, *i.e.* { $10^{-3}, 5 \times 10^{-3}, 10^{-2}$ }.
 
