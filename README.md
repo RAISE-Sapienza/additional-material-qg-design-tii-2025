@@ -11,7 +11,7 @@ This repository contains the following directories:
 
 * `case-study` - This directory contains the Modelica code of the heat network case study with the required libraries. 
     * `model` - Modelica code of the heat network.
-    * `library` - Modelica code of the [Automation of Energy System](https://github.com/looms-polimi/Automation_of_Energy_Systems) Modelica library.
+    * `library` - Modelica code of the [Automation of Energy System](https://github.com/looms-polimi/Automation_of_Energy_Systems) library.
 
 
 ## Additional Experiments.
